@@ -1,1 +1,2 @@
-document.write("<h1>Transgender are people too!</h1>");
+document.write("<h1>Support LGBTQ+!</h1>");
+alert("Support LGBTQ+!");
