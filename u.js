@@ -1,1 +1,1 @@
-ducoment.write("<h1>Fuck you!</h1>");
+document.write("<h1>Fuck you!</h1>");
